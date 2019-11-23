@@ -15,3 +15,8 @@ Code:
  Behaviour Tree - execute the actions that the bot needs to do depending on the blackboard parameter
  Blackboard - holding the parameters.
  
+
+that's the video of the full project.
+please note that it contains blueprint tasks and services
+and i uplaoded only c++ stuff.
+https://youtu.be/mAW2jMj99lQ
